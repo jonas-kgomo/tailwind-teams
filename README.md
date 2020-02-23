@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+This is a [Saleswhale](https://www.saleswhale.com/) project bootstrapped with [`Next.js`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app). and Tailwind CSS
 
-## Getting Started
+## Run Locally
 
 First, run the development server:
 
@@ -10,21 +10,19 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Instructions
 
-## Learn More
+In this exercise, you will have to craft and implement a page from one of our apps. 
+Here is a link to a mockup on figma: https://www.figma.com/file/ZttV7gZOn3N9DMGuJea63DOt/SW-Frontend-UI-Test?node-id=0%3A1 . Your task is to implement an app that looks as close as possible to the attached mockup.
 
-To learn more about Next.js, take a look at the following resources:
+In addition to the layout, you are also expected to implement the following functionality:
+1. When the user clicks the All tab, they should see All Teams
+2. When the user clicks the Favorites tab, they should only see their Favorited Teams
+3. When the user clicks on the Archived tab, they should only see Archived teams.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+You are expected to interface with a mock API response that is also attached with this exercise. Ingest the data however you see fit. You are not required to load the data directly from the file.
 
-You can check out [the Next.js GitHub repository](https://github.com/zeit/next.js/) - your feedback and contributions are welcome!
+For extra credit, feel free to be as creative as you'd like with the UX.
 
-## Deploy on ZEIT Now
-
-The easiest way to deploy your Next.js app is to use the [ZEIT Now Platform](https://zeit.co/) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+For your solution, either host it somewhere we can access or give us detailed instructions on how to build it. Let us know if you have any questions and good luck!
