@@ -1,5 +1,8 @@
 This is a [Saleswhale](https://www.saleswhale.com/) project bootstrapped with [`Next.js`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app). and Tailwind CSS
 
+## Dependencies
+- Icons: Octicons
+
 ## Run Locally
 
 First, run the development server:
@@ -14,7 +17,7 @@ yarn dev
 ## Instructions
 
 In this exercise, you will have to craft and implement a page from one of our apps. 
-Here is a link to a mockup on figma: https://www.figma.com/file/ZttV7gZOn3N9DMGuJea63DOt/SW-Frontend-UI-Test?node-id=0%3A1 . Your task is to implement an app that looks as close as possible to the attached mockup.
+Here is a link to a mockup on [Figma](https://www.figma.com/file/ZttV7gZOn3N9DMGuJea63DOt/SW-Frontend-UI-Test?node-id=0%3A1) . Your task is to implement an app that looks as close as possible to the attached mockup.
 
 In addition to the layout, you are also expected to implement the following functionality:
 1. When the user clicks the All tab, they should see All Teams
